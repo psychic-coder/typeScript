@@ -82,8 +82,6 @@ function getTrueShape(shape:Shape){
 }
 
 
-
-
 function getArea(shape:Shape){
     switch(shape.kind){
         case "circle":
